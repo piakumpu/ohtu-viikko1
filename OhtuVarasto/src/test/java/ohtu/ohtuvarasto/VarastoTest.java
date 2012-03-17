@@ -100,7 +100,7 @@ public void toStringToimiiTyhjalleVarastolle(){
         
     @Test
     public void LisaaLiikaa() {
-        varasto.lisaaVarastoon(4);
+        varasto.lisaaVarastoon(18);
  
         //varasto.otaVarastosta(2);
  
